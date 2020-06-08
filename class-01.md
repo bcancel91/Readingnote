@@ -9,11 +9,15 @@
 
 
 
+### What are DOCTYPES used for?
+1. To Inform the browser of a document.
+2. To replace html whith javascript.
+3. DOCTYPE tells the browser which version of hmtl to run.
 
 
-###
 
 
-
-
-###
+### What are ID's and classes used for in HTML?
+1. They are used for adding borsers to DIVS.
+2. They are used to target specific elements in HTML.
+3. Both "1" and "2" are correct.
