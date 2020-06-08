@@ -8,7 +8,6 @@
 3. To inform the browser that the content is javascript.
 
 
-
 ### What are DOCTYPES used for?
 1. To Inform the browser of a document.
 2. To replace html whith javascript.
